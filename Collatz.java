@@ -1,6 +1,6 @@
 public class Collatz{
 	public static void main(String[] args){
-		int N  = 15;
+		int N  = 100000;
 		collatzChecker(N);
 	}
 
